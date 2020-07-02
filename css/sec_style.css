@@ -1,0 +1,28 @@
+.sec_left{
+    width: 300px;
+    height: 400px;
+    margin-left: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    background-color: rgba(0,139,139,0.1);
+    float: left;
+}
+button{
+    width: 250px;
+    height: 90px;
+    color: white;
+    font-family: 华文中宋;
+    font-size: 16pt;
+    margin: 20px auto 0px 25px;
+    background-color: darkcyan;
+    border: none;
+}
+.sec_right{
+    float: left;
+    padding-left: 100px;
+    padding-top: 50px;
+    width: 60%;
+}
+.sec_right li{
+    background-color: rgba(0,139,139,0.1);
+}

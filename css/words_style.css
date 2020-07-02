@@ -1,0 +1,38 @@
+.words_text {
+    width: 70%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.words_div {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.words_text p {
+    text-indent: 2em; /*段落开头空两字符*/
+    font-family: 黑体;
+    font-size: 13pt; /*主页内容文字大小*/
+}
+
+.set_hr {
+    width: 100%;
+    size: 1px;
+    color: black;
+}
+.title_h1{
+    text-align: center;
+}
+.video_ctrl{
+    width: 60%;
+    height: auto;
+    min-width: 855px;
+    max-width: 1200px;
+}
+.index1jpg{
+    width: 400px;
+    height: 300px;
+    margin: 10px auto;
+    padding-left: 200px;
+}

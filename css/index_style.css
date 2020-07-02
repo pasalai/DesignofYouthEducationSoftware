@@ -1,0 +1,52 @@
+/*主页正文*/
+.index_text {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.index_text p {
+    text-indent: 2em; /*段落开头空两字符*/
+    font-family: 幼圆;
+    font-size: 14pt; /*主页内容文字大小*/
+}
+
+.set_hr {
+    width: 100%;
+    size: 1px;
+    color: black;
+}
+
+.index_div {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.index1jpg {
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+.index2jpg {
+    width: 400px;
+    height: 300px;
+    float: right;
+}
+
+/*登陆页面*/
+.login_div {
+    width: 400px;
+    height: 350px;
+    box-shadow: 9px 11px 20px 3px grey; /*设置登录界面阴影*/
+    background-color: rgba(255, 255, 255, 0.3);
+    margin: 200px auto;
+    padding: 50px;
+}
+
+.login {
+    overflow-y: hidden;
+    width: 100%;
+    min-width: 1400px;
+    max-height: 500px;
+}

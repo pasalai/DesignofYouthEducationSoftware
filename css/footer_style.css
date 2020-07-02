@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgba(0,139,139,0.1);
+    color: black;
+    clear: both;
+}
+.footer_div{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer_div a {
+    text-decoration: none;
+}
+.set_hr {
+    width: 100%;
+    size: 1px;
+    color: black;
+}
+a.footer_link:hover,a.footer_link:visited,a.footer_link:link{
+    color: #000;
+}
